@@ -1,0 +1,40 @@
+Legislature: 
+
+ Legislature [r]: The body of persons responsible for the formulation of law. [e]
+
+Programming Language: 
+
+ A programming language is a human-readable lexicon and grammar that a programmer uses to instruct a computer how to operate.  Programs written in a programming language have to be translated into machine code, usually by a compiler program.  Machine code consists of multiple lower-level instructions which the computer can actually understand. Use of a programming language allows programmers to work at a higher level than machine code (which is not human-readable).
+
+Algorithm: 
+
+ In mathematics or computer science, an algorithm is a sequence of steps for one particular method of solving a problem, similar to the instructions of a recipe when cooking.  The word is derived from the name of al-Khwarizmi, a Persian mathematician who was a librarian in Baghdad in the 9th century CE[1].  
+
+Government: 
+
+ Government is the system by which a community or nation is controlled and regulated. Governments vary in their composition and processes. Capitalist liberal democracy is currently the dominant method of governance in the Western world - whereby citizens are allowed to vote for one or more representatives to join a senate, parliament or other voting body who can make decisions about legislation. Other forms of government include dictatorship, Communism, anarchism and theocracy. Various thinkers have put forward theories as to how governments have come to exist and justifications for their necessity.
+
+Jury: 
+
+ A jury is a sworn body of citizens who are to render an impartial verdict to a court. There are various sorts of juries. The grand jury, originally an English institution, abolished in the 20th century but continuing in the USA, would decide whether someone should be prosecuted. The petty jury is to decide whether the accused is guilty or not guilty (in Scotland, a third verdict is available, Not proven). Other types of juries include coroners' juries and civil juries, the latter still often used in English defamation cases. A now obsolete type in England was the jury of married women who would decide whether a woman sentenced to death was pregnant, in which case execution was illegal. Another type was sworn in if a defendant remained silent when asked to plead guilty or not guilty. They would decide whether the accused stood "mute of malice" or "by the visitation of God". A jury from the Worshipful Company of Goldsmiths assays coins issued by the Royal Mint. Outside legal contexts, the term is also often applied to the panel deciding awards, competitions etc.
+
+Computer: 
+
+ The electronic computer, dating from the middle of the twentieth century, vastly expanded human ability to store and share information. As such, the invention of the computer may be a milestone for humanity on a par with the advent of writing and materials to write on (millennia ago)[1], or with the invention of the printing press (~1450)[2]. The computer has forever changed how people live, how scientific research is conducted, the military weaponry available, and business practices.  Today, computers are ubiquitous household objects, perhaps unrecognized in the form of a tiny microprocessor embedded in a gadget such as a phone or a TV remote. Even defining the word computer may spark a debate, because so many different kinds of computers exist, and they are used for so many different kinds of activities. The history of computing is very complex and thus deserves its own article.
+
+Constitution: 
+
+ A constitution is a set of rules that are the ultimate source of legal authority for the state. The rules of the constitution identify the major institutions of the state, and govern the relationship between the state and the individual citizen.
+
+Country: 
+
+ In its simplest form, a country is a defined area of land. However, country is also commonly used to refer to the state that controls the land or to refer to the nation that lives on the land. This is often additionally confused since the territory, state (government) and nation frequently share the same name. All three terms are commonly coterminous—where the boundaries of the territory matches that of the state's power and the nations area of occupation. However, there are many situations where the boundaries do not align. Populations have migrated; wars have destroyed and created new states; and unions have joined countries together. A country does not always cease to exist when occupied by another state or nation or broken up in to smaller states. The concept of the country survives even if the physical or political reality is different.
+
+Source Code: 
+
+ In computer programming, source code is the code which a compiler turns into a compiled piece of software or an interpreter runs. Source code is written in a human-redable language that usually takes some aspects of written and mathematical languages, but designed to have as little ambiguity as possible. Source code is different from compiled 'object' code, which is not human readable - these are binary instructions given to either the processor or the Virtual Machine in order to trigger routines. One particular piece of source code can be interpreted in different ways by different compilers, leading to different results - this is often used so that one can write a routine that works the same way on different architectures (see abstraction). Some compilers allow you to create source code from the binary object code - this is caleld decompilation.
+
+URL: 
+
+ Most commonly used to find resources on the World Wide Web, but much more general in capability, a Uniform Resource Locator (URL). Their syntax is:
+

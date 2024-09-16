@@ -1,0 +1,800 @@
+Microsoft Corporation:
+
+	lastSalePrice:$422.28
+	netChange:-0.80
+	percentageChange:-0.19%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Apple Inc:
+
+	lastSalePrice:$190.095
+	netChange:+0.375
+	percentageChange:+0.20%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+NVIDIA Corporation:
+
+	lastSalePrice:$949.12
+	netChange:+2.82
+	percentageChange:+0.30%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Alphabet Inc.:
+
+	lastSalePrice:$173.995
+	netChange:+1.485
+	percentageChange:+0.86%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Alphabet Inc.:
+
+	lastSalePrice:$175.2461
+	netChange:+1.3661
+	percentageChange:+0.79%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Amazon.com, Inc.:
+
+	lastSalePrice:$185.5267
+	netChange:-0.4633
+	percentageChange:-0.25%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Meta Platforms, Inc.:
+
+	lastSalePrice:$474.4693
+	netChange:-7.0707
+	percentageChange:-1.47%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Broadcom Inc.:
+
+	lastSalePrice : $1436.38
+	netChange:+0.21
+	percentageChange:+0.01%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Tesla, Inc.:
+
+	lastSalePrice:$175.0431
+	netChange:+1.0531
+	percentageChange:+0.61%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+ASML Holding N.V.:
+
+	lastSalePrice:$929.9425
+	netChange:-7.4775
+	percentageChange:-0.80%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Costco Wholesale Corporation:
+
+	lastSalePrice:$800.30
+	netChange:+13.26
+	percentageChange:+1.68%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Advanced Micro Devices, Inc.:
+
+	lastSalePrice:$166.7112
+	netChange:+7.0412
+	percentageChange:+4.41%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Netflix, Inc.:
+
+	lastSalePrice:$612.405
+	netChange:-1.115
+	percentageChange:-0.18%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+PepsiCo, Inc.:
+
+	lastSalePrice:$182.075
+	netChange:+2.615
+	percentageChange:+1.46%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+AstraZeneca PLC:
+
+	lastSalePrice:$77.17
+	netChange:+0.20
+	percentageChange:+0.26%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Adobe Inc.:
+
+	lastSalePrice:$485.49
+	netChange:+0.14
+	percentageChange:+0.03%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+QUALCOMM Incorporated:
+
+	lastSalePrice:$194.70
+	netChange:+0.09
+	percentageChange:+0.05%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Linde plc:
+
+	lastSalePrice:$429.825
+	netChange:-0.995
+	percentageChange:-0.23%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Cisco Systems, Inc.:
+
+	lastSalePrice:$48.545
+	netChange:-1.125
+	percentageChange:-2.26%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+T-Mobile US, Inc.:
+
+	lastSalePrice:$163.42
+	netChange:+0.74
+	percentageChange:+0.45%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+PDD Holdings Inc.:
+
+	lastSalePrice:$141.97
+	netChange:+0.67
+	percentageChange:+0.47%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Intuit Inc.:
+
+	lastSalePrice:$655.87
+	netChange:+0.74
+	percentageChange:+0.11%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Applied Materials, Inc.:
+
+	lastSalePrice:$216.5599
+	netChange:-0.9301
+	percentageChange:-0.43%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Texas Instruments Incorporated:
+
+	lastSalePrice:$195.48
+	netChange:-0.05
+	percentageChange:-0.03%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Amgen Inc.:
+
+	lastSalePrice:$314.225
+	netChange:-2.565
+	percentageChange:-0.81%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Comcast Corporation:
+
+	lastSalePrice:$39.28
+	netChange:+0.03
+	percentageChange:+0.08%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Micron Technology, Inc.:
+
+	lastSalePrice:$129.37
+	netChange:+1.56
+	percentageChange:+1.22%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Intuitive Surgical, Inc.:
+
+	lastSalePrice:$398.04
+	netChange:-1.35
+	percentageChange:-0.34%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Intel Corporation:
+
+	lastSalePrice:$31.735
+	netChange:+0.465
+	percentageChange:+1.49%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Honeywell International Inc.:
+
+	lastSalePrice:$206.695
+	netChange:+2.715
+	percentageChange:+1.33%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Booking Holdings Inc.:
+
+	lastSalePrice : $3790.62
+	netChange:-1.91
+	percentageChange:-0.05%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Lam Research Corporation:
+
+	lastSalePrice:$951.3034
+	netChange:+3.5534
+	percentageChange:+0.37%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Arm Holdings plc:
+
+	lastSalePrice:$114.40
+	netChange:+0.73
+	percentageChange:+0.64%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Vertex Pharmaceuticals Incorporated:
+
+	lastSalePrice:$437.95
+	netChange:+0.46
+	percentageChange:+0.11%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Sanofi:
+
+	lastSalePrice:$48.89
+	netChange:-0.12
+	percentageChange:-0.24%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Analog Devices, Inc.:
+
+	lastSalePrice:$215.12
+	netChange:-0.63
+	percentageChange:-0.29%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Regeneron Pharmaceuticals, Inc.:
+
+	lastSalePrice:$975.35
+	netChange:-2.86
+	percentageChange:-0.29%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+KLA Corporation:
+
+	lastSalePrice:$760.4988
+	netChange:+0.7788
+	percentageChange:+0.10%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Automatic Data Processing, Inc.:
+
+	lastSalePrice:$249.31
+	netChange:+2.69
+	percentageChange:+1.09%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Palo Alto Networks, Inc.:
+
+	lastSalePrice:$314.5688
+	netChange:+2.2488
+	percentageChange:+0.72%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Mondelez International, Inc.:
+
+	lastSalePrice:$71.83
+	netChange:+0.50
+	percentageChange:+0.70%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Airbnb, Inc.:
+
+	lastSalePrice:$146.76
+	netChange:+0.96
+	percentageChange:+0.66%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+MercadoLibre, Inc.:
+
+	lastSalePrice : $1729.255
+	netChange:+10.755
+	percentageChange:+0.63%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Synopsys, Inc.:
+
+	lastSalePrice:$572.80
+	netChange:-7.40
+	percentageChange:-1.28%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Starbucks Corporation:
+
+	lastSalePrice:$74.855
+	netChange:-0.275
+	percentageChange:-0.37%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Gilead Sciences, Inc.:
+
+	lastSalePrice:$67.85
+	netChange:+0.84
+	percentageChange:+1.25%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Cadence Design Systems, Inc.:
+
+	lastSalePrice:$291.165
+	netChange:-1.935
+	percentageChange:-0.66%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+CrowdStrike Holdings, Inc.:
+
+	lastSalePrice:$342.425
+	netChange:-0.695
+	percentageChange:-0.20%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Equinix, Inc.:
+
+	lastSalePrice:$801.365
+	netChange:-8.315
+	percentageChange:-1.03%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+CME Group Inc.:
+
+	lastSalePrice:$211.40
+	netChange:+3.14
+	percentageChange:+1.51%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Cintas Corporation:
+
+	lastSalePrice:$691.79
+	netChange:-0.61
+	percentageChange:-0.09%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Constellation Energy Corporation:
+
+	lastSalePrice:$222.00
+	netChange:-1.31
+	percentageChange:-0.59%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+NXP Semiconductors N.V.:
+
+	lastSalePrice:$272.2582
+	netChange:+0.2582
+	percentageChange:+0.09%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Marriott International, Inc.:
+
+	lastSalePrice:$237.66
+	netChange:+1.66
+	percentageChange:+0.70%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Workday, Inc.:
+
+	lastSalePrice:$253.88
+	netChange:+2.57
+	percentageChange:+1.02%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+PayPal Holdings, Inc.:
+
+	lastSalePrice:$63.975
+	netChange:+0.075
+	percentageChange:+0.12%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+CSX Corporation:
+
+	lastSalePrice:$33.895
+	netChange:+0.055
+	percentageChange:+0.16%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+NetEase, Inc.:
+
+	lastSalePrice:$103.97
+	netChange:+5.21
+	percentageChange:+5.28%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Marvell Technology, Inc.:
+
+	lastSalePrice:$73.4912
+	netChange:+3.3412
+	percentageChange:+4.76%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+O'Reilly Automotive, Inc.:
+
+	lastSalePrice : $1007.88
+	netChange:-2.50
+	percentageChange:-0.25%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Roper Technologies, Inc.:
+
+	lastSalePrice:$536.70
+	netChange:+5.26
+	percentageChange:+0.99%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Monster Beverage Corporation:
+
+	lastSalePrice:$54.28
+	netChange:+0.04
+	percentageChange:+0.07%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+PACCAR Inc:
+
+	lastSalePrice:$106.12
+	netChange:-1.96
+	percentageChange:-1.81%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Super Micro Computer, Inc.:
+
+	lastSalePrice:$924.02
+	netChange:-28.34
+	percentageChange:-2.98%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Copart, Inc.:
+
+	lastSalePrice:$54.775
+	netChange:-0.535
+	percentageChange:-0.97%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+DexCom, Inc.:
+
+	lastSalePrice:$131.11
+	netChange:+1.40
+	percentageChange:+1.08%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Microchip Technology Incorporated:
+
+	lastSalePrice:$95.09
+	netChange:-0.27
+	percentageChange:-0.28%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Interactive Brokers Group, Inc.:
+
+	lastSalePrice:$122.05
+	netChange:+0.04
+	percentageChange:+0.03%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Coinbase Global, Inc.:
+
+	lastSalePrice:$205.9214
+	netChange:-13.9886
+	percentageChange:-6.36%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Moderna, Inc.:
+
+	lastSalePrice:$132.28
+	netChange:+3.22
+	percentageChange:+2.49%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+American Electric Power Company, Inc.:
+
+	lastSalePrice:$92.95
+	netChange:+0.98
+	percentageChange:+1.07%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Atlassian Corporation:
+
+	lastSalePrice:$182.78
+	netChange:-1.43
+	percentageChange:-0.78%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Autodesk, Inc.:
+
+	lastSalePrice:$220.41
+	netChange:+0.17
+	percentageChange:+0.08%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+JD.com, Inc.:
+
+	lastSalePrice:$34.09
+	netChange:+0.47
+	percentageChange:+1.40%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Fortinet, Inc.:
+
+	lastSalePrice:$60.76
+	netChange:+0.03
+	percentageChange:+0.05%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Keurig Dr Pepper Inc.:
+
+	lastSalePrice:$34.30
+	netChange:+0.49
+	percentageChange:+1.45%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+The Trade Desk, Inc.:
+
+	lastSalePrice:$93.80
+	netChange:+3.55
+	percentageChange:+3.93%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Ross Stores, Inc.:
+
+	lastSalePrice:$134.90
+	netChange:+1.90
+	percentageChange:+1.43%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Paychex, Inc.:
+
+	lastSalePrice:$125.155
+	netChange:+0.785
+	percentageChange:+0.63%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+IDEXX Laboratories, Inc.:
+
+	lastSalePrice:$541.715
+	netChange:-6.815
+	percentageChange:-1.24%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+The Kraft Heinz Company:
+
+	lastSalePrice:$36.215
+	netChange:+0.365
+	percentageChange:+1.02%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Lululemon Athletica Inc.:
+
+	lastSalePrice:$340.335
+	netChange:-6.515
+	percentageChange:-1.88%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Baidu, Inc.:
+
+	lastSalePrice:$110.77
+	netChange:+0.02
+	percentageChange:+0.02%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Datadog, Inc.:
+
+	lastSalePrice:$121.0662
+	netChange:+2.5962
+	percentageChange:+2.19%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Old Dominion Freight Line, Inc.:
+
+	lastSalePrice:$182.385
+	netChange:-1.535
+	percentageChange:-0.83%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Charter Communications, Inc.:
+
+	lastSalePrice:$273.425
+	netChange:+1.655
+	percentageChange:+0.61%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Exelon Corporation:
+
+	lastSalePrice:$38.80
+	netChange:+0.07
+	percentageChange:+0.18%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Fastenal Company:
+
+	lastSalePrice:$66.74
+	netChange:-0.24
+	percentageChange:-0.36%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Arch Capital Group Ltd.:
+
+	lastSalePrice:$98.9451
+	netChange:+1.0751
+	percentageChange:+1.10%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+GE HealthCare Technologies Inc.:
+
+	lastSalePrice:$81.59
+	netChange:-0.32
+	percentageChange:-0.39%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+CoStar Group, Inc.:
+
+	lastSalePrice:$89.225
+	netChange:+0.745
+	percentageChange:+0.84%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Nasdaq, Inc.:
+
+	lastSalePrice:$62.46
+	netChange:+1.11
+	percentageChange:+1.81%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Trip.com Group Limited:
+
+	lastSalePrice:$55.67
+	netChange:-0.10
+	percentageChange:-0.18%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Monolithic Power Systems, Inc.:
+
+	lastSalePrice:$738.42
+	netChange:-2.92
+	percentageChange:-0.39%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Verisk Analytics, Inc.:
+
+	lastSalePrice:$251.10
+	netChange:+3.26
+	percentageChange:+1.32%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Cognizant Technology Solutions Corporation:
+
+	lastSalePrice:$70.53
+	netChange:+1.67
+	percentageChange:+2.43%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Diamondback Energy, Inc.:
+
+	lastSalePrice:$195.51
+	netChange:-1.23
+	percentageChange:-0.63%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Coca-Cola Europacific Partners PLC:
+
+	lastSalePrice:$75.005
+	netChange:-0.125
+	percentageChange:-0.17%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Electronic Arts Inc.:
+
+	lastSalePrice:$128.51
+	netChange:+0.89
+	percentageChange:+0.70%
+	deltaIndicator:up
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
+Biogen Inc.:
+
+	lastSalePrice:$230.27
+	netChange:-5.05
+	percentageChange:-2.15%
+	deltaIndicator:down
+	lastTradeTimestamp:May 16 2024 12:19 PM ET
+
